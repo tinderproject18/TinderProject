@@ -151,7 +151,7 @@ header li {
     display: none;
 }
 
-@media screen and (min-width: 90em) {
+@media screen and (min-width: 30em) {
     body {
         /*        max-width: 40em;*/
         margin: 0 auto;
