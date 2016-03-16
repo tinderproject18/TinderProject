@@ -82,8 +82,6 @@ p {
 img {
     max-width: 100%;
     display: block;
-    overflow: auto;
-    border: solid 1px black;
 }
 
 iframe {
@@ -149,6 +147,7 @@ header li {
         /*        max-width: 40em;*/
         margin: 0 auto;
         box-sizing: border-box;
+        /*        max-width: 80em;*/
     }
     header {
         width: 20em;
@@ -161,17 +160,13 @@ header li {
     }
     aside {
         float: right;
+        padding: 1em;
+        width: 30em;
     }
     header {}
     section {}
     #statement {
         padding-top: 0;
-    }
-    .max-width-img {
-        max-width: 20em;
-    }
-    #prototype img {
-        max-width: 560px;
     }
 }
 

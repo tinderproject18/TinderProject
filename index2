@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Tinder Project</title>
+    <meta name="description" content="Tinder Project">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,700,400italic' rel='stylesheet' type='text/css'>
+    <script src="js/smooth-scroll.min.js"></script>
+
+
+</head>
+
+<body id="top">
+    <header>
+
+        <h1> <a href="index.html">Juan Matias</a></h1>
+        <p><span class="caption">Tinder Documentation</span></p>
+
+        <nav>
+
+            <ul>
+                <li>
+
+                    <a href="index.html"><h4>Part 1: The Photo</h4></a></li>
+                <li>
+                    <a href="part2.html"><h4>Part 2: The Bio</h4></a></li>
+
+                <li>
+
+                    <li>
+                        <a href="part3.html"><h4>Part 3: Messaging</h4></a></li>
+
+                    <li>
+                        <a href="part4.html"><h4>Part 4: Strategy</h4></a></li>
+
+
+
+                    <hr>
+                    <li>
+                        <a data-scroll href="introduction">Introduction</a></li>
+                    <li><a data-scroll href="#photoprep">Photo Preparation</a></li>
+                    <li><a data-scroll href="#basicofphotography">Basics of Photography </a></li>
+                    <li><a data-scroll href="#headshot">The Headshot</a></li>
+                    <li><a data-scroll href="#cardinalrules">The Cardinal Rules</a></li>
+                    <li><a data-scroll href="#activityshot">The Activity Shot</a></li>
+                    <li><a data-scroll href="#groupshot">The Group Shot</a></li>
+                    <li><a data-scroll href="#3rdand5thphoto">The 3rd and 5th Photo</a></li>
+                    <li><a data-scroll href="#animalshot">The Animal shot</a></li>
+                    <li><a data-scroll href="#humor">Incorporating Humor</a></li>
+                    <li><a data-scroll href="#wealth">Wealth</a></li>
+                    <li><a data-scroll href="#filters">Filters</a></li>
+                    <li><a data-scroll href="#woman">Photos With Women</a></li>
+                    <li>
+                        <a href="part2.html">The Bio Template Notes</a>
+                    </li>
+
+
+            </ul>
+        </nav>
+    </header>
+    <main>
+
+
+
+        <aside id="photos">
+            <embed src="img/tindernumbers2.pdf" width="" height="10000px">
+
+        </aside>
+
+
+        <article id="photo">
+
+
+            <h2>The Photo Template Notes</h2>
+            <section id="introduction">
+                <h3>Introduction</h3>
+                <ul>
+                    <li>In this template we will be exploring the photo section of Tinder and how to maximize its potential to get you matches</li>
+                    <li>Your tinder photo gallery is hands-down the most important part of your profile</li>
+                    <li>The photo gallery is a slideshow of 1 to 6 photos provided for you to showcase who you are</li>
+                    <li>The photo gallery is the primary factor that will decide whether or on you have a successful Tinder profile</li>
+                    <li>The photo gallery when handle appropriately is what will directly divide you from the rest, making you one of the top tier Tinder users</li>
+                    <li>If approached poorly in any way, the photo gallery will sabotage every other aspect of your profile</li>
+                    <li>So why is the photo gallery so important?</li>
+                    <li>For starters, your first photo is in most cases the only thing a potential match is going to see when deciding how they are going to swipe</li>
+                    <li>The photo gallery is what will open the door to all your future interactions
+
+                    </li>
+                    <li>It’s no secret that being conventionally attractive will get you more matches, even though many attractive people don’t really have a good grasp on what a successful photo gallery looks like, they still have an advantage over the average user</li>
+                    <li>With that said, knowing how to take and choose the right photos will optimize your profile, putting you at their level</li>
+                </ul>
+
+
+
+            </section>
+            <section id="photoprep">
+                <h3>Photo Preparation</h3>
+                <ul>
+                    <li>To set up a top tier photo gallery you first need to understand what a quality photograph is</li>
+                    <li>The essence of good photography is capturing a moment in time as beautifully as it was when you experienced it</li>
+                    <li>For a lot of you, chance are you already have a selection of photos that will work well</li>
+
+                    <li class="list-indent">Gathering literally every photo you can find of yourself will potentially do a lot of the heavy lifting, showing you what’s useable and whats’s missing</li>
+
+                    <li>But for the sake of taking the photos, the first thing you are going to want is to find someone to take them for you. The fact of the matter is that this will workout a lot better if you have some one take it for you. So grab a friend or get creative</li>
+                    <li>We will further discuss how to do this in the Basics of Photography section
+
+                    </li>
+                    <li>The goal of the photos you choose should be to spark interest</li>
+                    <li>You will basically need to draw the appropriate attention of all your potential matches through your first photo and all your following photos
+
+                    </li>
+                    <li>The sweet spot for how many photos you want in your gallery is 4 to 5, no more, no less</li>
+                    <li class="list-indent">One of the key aspects of a good profile is variety. It’s nearly impossible to have that with less than 4 photos</li>
+                    <li class="list-indent">One of the key aspects of a good profile is variety. It’s nearly impossible to have that with less than 4 photos</li>
+                    <li>Each of the photos you select will play their own crucial role</li>
+                    <li class="list-indent">The headshot</li>
+                    <li class="list-indent">The full body activity shot</li>
+                    <li class="list-indent">The miscellaneous</li>
+                    <li class="list-indent">The group shot</li>
+                    <li class="list-indent">The optional 5th shot</li>
+
+                    <li>The most important thing that you are trying to convey with your photos to spark interest is range</li>
+
+                    <li>After searching through thousands of profiles and countless tests to see what works and what doesn’t, it became fairly obvious that looks aren’t the only thing that make up a top tier profile</li>
+                    <li>Don’t misinterpret: being attractive does help, but the best profiles where made up of quality photos that conveyed range</li>
+                    <li></li>
+
+                    <li>What you’re going to want to do is use range to showcase the ideal traits that potential matches are looking for</li>
+                    <li class="list-indent">Confidence</li>
+                    <li class="list-indent">Sense of humor</li>
+                    <li class="list-indent">Sensitivity</li>
+                    <li class="list-indent">Aptitude</li>
+                    <li class="list-indent">Depth</li>
+                    <li class="list-indent">Personal values (friend, family, etc.)</li>
+                    <li class="list-indent">Sex appeal</li>
+                    <li class="list-indent">Social awareness</li>
+                    <li class="list-indent">Adventurousness</li>
+                    <li>The range of your photos should basically showcase as many of these traits as possible. Your potential matches should see you as some one with whomthey would enjoy Netflix &amp; Chill with but also hanging out with friends or even swimming with sharks</li>
+                </ul>
+
+
+
+
+
+            </section>
+            <section id="basicofphotography">
+
+                <h3>Basics of Photography</h3>
+                <h4>Camera Quality:</h4>
+
+                <ul>
+                    <li>In general when picking out what camera you want to use for the photos you take you don’t really have to look much further than the average IPhone or Android from the past 2 years. Most people have them, and if you don’t it will be fairly easy to find someone who does</li>
+                    <li>Though these will get the job done just fine, you do have the option of taking it a step further with an actual camera</li>
+                    <li>Though these will get the job done just fine, you do have the option of taking it a step further with an actual camera</li>
+                    <li>The higher the resolution, the clearer your picture is going to be. A DSLR camera is going to give you the best quality</li>
+                    <li class="list-indent">The thing with DSLR cameras is that they’re a little too clear</li>
+                    <li class="list-indent">So you’re going to only want to use pictures like this for your headshot or 2 photos tops or you’ll risk your photo gallery looking like it was professionally set up and that makes you look plastic</li>
+                    <li>If you’re not using a smartphone or a DSLR, then a simple point-and shoot camera will also get the job done as long as it isn’t out dated</li>
+                    <li>With all that said, never use a low-resolution camera. So no disposable cameras or flip-phones</li>
+                </ul>
+
+
+                <h4>Composition:</h4>
+                <ul>
+                    <li>The composition of a photo is the placement or arrangement of its visual elements</li>
+                    <li>The first thing you’re going to want to keep in mind is that Tinder forces you to crop your photos into a square. So if you have control over the photo when it is being taken, it’s best to change the frame of the photo into a square</li>
+                    <li class="list-indent">Most smartphones make this fairly simple to do</li>
+                    <li class="list-indent">When you do this it makes it easier to get a quality photo because a lot of time cropping ruins the integrity of the composition
+
+                    </li>
+                    <li>The main thing to keep in mind within the composition of all the photos, the ones you have control over and the one you pick out is that you need to be the focal point of the image</li>
+                    <li class="list-indent">You don’t necessarily need to be centered but the viewer’s eye should have no trouble finding you</li>
+                    <li></li>
+                </ul>
+                <h4>Sharpness:</h4>
+                <ul>
+
+                    <li>Using sharpness in your photos contrasts you from the setting, making your photo pop more and stand out. This is controlled through depth of field, the distance between the nearest and the furthest objects in the image</li>
+                    <li>With the photos you have control over, you are going to want to have a shallow depth of field (blurry background with sharp focus on the foreground)
+
+                    </li>
+                    <li>To get this effect on a DSLR you’re going to want to use a low aperture setting
+
+                    </li>
+                    <li>setting On a smartphone, there is no aperture setting because they don’t actually have apertures in them</li>
+                    <li>Luckily for people who don’t have access to DSLR, there are post production apps that can easily mimic this effect</li>
+
+                    <li class="list-indent">Adobe Photoshop Light Room</li>
+                    <li class="list-indent">Photo Blur Editor</li>
+                    <li class="list-indent">Big Lens</li>
+                    <li class="list-indent">Broken Lens</li>
+                    <li>To really make your photos pop, on a smartphone you can also adjust the highlights and shadows</li>
+                    <li>To really make your photos pop, on a smartphone you can also adjust the highlights and shadows</li>
+                </ul>
+
+
+
+
+            </section>
+            <section id="headshot">
+                <h3>The Headshot</h3>
+                <ul>
+
+                    <li>As stated earlier, the head shot is going to be your first photo, and your most important</li>
+                    <li>The headshot is compositionally set up with you as the only focal point of the photo being depicted from the waist or shoulders up</li>
+                    <li>Unless you already have a headshot taken by a professional, this is the main photo that you’re going to want to plan out the most because chances are, you won’t already have a good one</li>
+                    <li>To get a good headshot you are going to want to guide someone who is taking the photo through what you are trying to accomplish</li>
+                    <li>Choose a simple background. Reducing the elements in the image will bring more attention to the subject</li>
+                    <li class="list-indent">Just going outside to a park or somewhere in nature should work just fine</li>
+                    <li>Wear colors that go well with the environment, nothing too outlandish like high-lighter yellow</li>
+                    <li>The lighting needs to work in a way that the person’s face is illuminated but not shined on directly</li>
+                    <li class="list-indent">The best hour for natural lighting is high-noon, when the sun is at its highest point</li>
+                    <li>Make sure that the location is somewhere in which you feel comfortable
+
+                    </li>
+                    <li class="list-indent">If you have the option playing music usually loosens people up</li>
+                    <li>As a model you should simply try and relax, have fun and enjoy yourself
+
+                    </li>
+                    <li>Again, if you genuinely can’t find anyone to take the photo for you, then use a tripod or stand with a photo timer</li>
+                    <li>The key component of the headshot is to get as clear a view of your face as possible so that your potential matches don’t have to wonder what you look like</li>
+                    <li>Studies have shown that the headshots that get the best responses are the ones where the model isn’t making direct eye contact with the camera, or smiling</li>
+                    <li>This doesn’t mean you can’t smile or look at the camera; it’s just harder to get a good photo that way. But if you do happen to do either of those things and the photo comes out good, then just stick with your gut and go with it</li>
+                    <li>With that said, whatever you decide to go with, commit to it fully. If you are smiling, then smile. If you’re trying to look brooding, then look brooding. You want to avoid anything in between, like a half smile or flirtatious pouting</li>
+                    <li>If you know you look better from a certain angle then accentuate that as much as possible while still having a clear view of your face</li>
+
+                </ul>
+
+
+
+
+
+            </section>
+            <section id="cardinalrules">
+                <h3>The Cardinal Rules</h3>
+                <ul>
+                    <li>The main thing that ruins the majority of Tinder profiles is usually the thing that the user isn’t aware they are doing</li>
+                    <li>The way Tinder is set up, things really are in a sence, black and white. It’s either your potential match swipes right or left</li>
+                    <li>You can have a near flawless profile, but with just one tiny mistake you’ll probably receive a left swipe</li>
+                    <li>With that said, here is a list of the cardinal rules you don’t want to break
+
+                    </li>
+                </ul>
+
+
+                <h4>What not to do:</h4>
+                <ul>
+                    <li>Never, ever use a selfie</li>
+                    <li class="list-indent">Literally the most common mistake on tinder is guys using selfie in their profiles</li>
+
+                    <li class="list-indent">It doesn’t matter how good you look or what the context is, nearly every women will testify that they just don’t like guys who take selfies</li>
+                    <li>Photos of you in your car</li>
+                    <li class="list-indent">We get it you own a car. All this says is that you’re a guy who takes photos in parking lots or traffic</li>
+                    <li class="list-indent">Don’t post up a picture of just your car without you even in the photo; this should be obvious, but a surprising amount of guys do it</li>
+                    <li class="list-indent">No photos of you posted up against your car. Photos like this just come off as self-glorifying. In addition to that, most girls don’t really care what kind of car you drive unless it’s a luxury vehicle, and even if it is, chances are they won’t be able to be certain it’s yours due to the fact that guys are prone to pose next to a Ferrari to take a picture when they see one in public</li>
+                    <li class="list-indent">It’s okay if you use a photo that has a car somewhere in the background as long as it isn’t drawing any attention and you are not acknowledging it</li>
+                    <li>Absolutely no photos of you at the gym or lifting any kind of weights</li>
+                    <li class="list-indent">Although it’s implied because it’s a selfie, it just needs to be made clear; do not post up a flexing in the mirror selfie or any type of photo that you are flexing in, period</li>
+                    <li class="list-indent">The only exception is if you are at some kind of competition</li>
+                    <li>Don’t crop photos in any way where it’s obvious you’re cutting someone out</li>
+                    <li>Unless it’s an activity photo, don’t use any pictures where your face isn’t showing</li>
+                    <li class="list-indent">This applies to photos that are so zoomed out you can barely see yourself</li>
+                    <li>Don’t use any pictures where you’re intentionally showing off your tattoos. Other than that, it’s perfectly fine to have photos where your tattoos are visible</li>
+                    <li>Don’t split the screen so more than one photo is visible</li>
+                    <li class="list-indent">If you feel the need to do this, then the photo isn’t strong enough
+
+                    </li>
+                    <li>Don’t use any photos that need to be explained in your bio</li>
+                    <li>Don’t use photos that contain guns</li>
+                    <li>Don’t have all your photos be in the same location</li>
+                    <li class="list-indent">Try and refrain from having any of them be in the same location if possible</li>
+                    <li class="list-indent">If they are very good photos, you can get away with having just 2 photos be in the same location</li>
+                    <li>Don’t use photos containing babies or children</li>
+                    <li class="list-indent">The obvious reason is that they have to be explained in the bio to justify that they are not yours</li>
+                    <li class="list-indent">The other is that a lot of girls just don’t like kids</li>
+                    <li class="list-indent">The not so obvious reason is that most girls will know exactly what you are trying to accomplish and they wont be too keen on you exploiting children</li>
+                    <li class="list-indent">If the kids do happen to be yours, still refrain from using the photo. It’s understandable that they are a part of your life, but the photo gallery is not the appropriate time to let someone know that</li>
+                    <li>Don’t use photos that need to be rotated</li>
+                    <li>Don’t blur out other people in your photos</li>
+                    <li>Don’t use humor that is crude in any way</li>
+
+                    <li class="list-indent">Humor that is crude just won’t play out well</li>
+                    <li class="list-indent">If it’s the type of humor you use around your “bros” or is funny to laugh at and not with, don’t use it</li>
+                    <li>Don’t have any photos where you are holding or smoking a cigarette</li>
+
+                    <li>Don’t use any photos that someone has responded to with “ew”</li>
+                    <li>Don’t use photos of you doing anything too immersed into things that other people may not immediately accept</li>
+                    <li class="list-indent">This includes things like Comic-Con or any religious practices</li>
+                    <li class="list-indent">It’s okay if these things are a part of who you are as a person, but for the sake of the photo gallery, now isn’t really the right time to let people know this</li>
+
+
+
+                </ul>
+
+            </section>
+            <section id="activityshot">
+                <h3>The Activity Shot</h3>
+                <ul>
+                    <li>The activity shot is generally the second photo in your gallery</li>
+                    <li>The first objective of the activity shot is to show what your entire body looks like</li>
+                    <li>Some people will preach that your second photo should strictly be a full body shot, but that usually results in a wasted photo</li>
+                    <li>By combining the full body shot and the activity shot (which in most cases will already show your potential matches what your full body looks like), you’re killing two birds with one stone</li>
+                    <li>With that said, the first and most obvious thing you are going to want to incorporate is an accurate depiction of your full body from head to toe
+
+                    </li>
+                    <li>Even if you don’t have a flattering figure, its better to just show it at least once in your gallery</li>
+                    <li class="list-indent">If you don’t, potential matches will most likely assume the worst
+
+                    </li>
+                    <li class="list-indent">In most cases you can play with angles and lighting to make your figure look more better</li>
+                    <li>The activity shot is your primary opportunity to promote who you are as a person. The key with this photo is to draw attention and by making yourself stand out as an interesting individual</li>
+                    <li>When selecting this photo, really think about what makes you unique and what are you passionate about</li>
+
+                    <li>If the activity involves other people it’s still okay to use as long as you keep the number as low as possible so you don’t fade into the crowed</li>
+                    <li>Try and avoid having your activity shot be dull or boring in any way</li>
+                    <li class="list-indent">So no photos of you giving a presentation at work</li>
+                    <li class="list-indent">This is only okay if all the people are there solely to see you, like a public speaking event</li>
+                    <li>If you play any sports, showcase it</li>
+                    <li>If you’re an artist or performer, have a photo of you painting or at a show
+
+                    </li>
+                    <li>This is also your opportunity to show that you are well traveled without having to actually say it</li>
+                    <li class="list-indent">The only thing you are going to want to avoid is looking too touristy. Don’t make the location of the photo the only point of interest
+
+                    </li>
+                </ul>
+                <h4>The shirtless activity shot:</h4>
+                <ul>
+                    <li>This is probably the photo that can be the most useful but is executed poorly almost every time</li>
+
+                    <li>Though most people who have a general understanding of how the photo section works will tell you to avoid shirtless photos altogether, there is a right way to do it that will make your profile a lot stronger</li>
+                    <li>Before we approach this you are going to want to make sure you look better with your shirt off than with it on</li>
+                    <li>Basically if you workout regularly, have abs, and an overall fit body, then you’re going to want to incorporate this photo into your gallery</li>
+                    <li>You want to find a setting where it would be odd if you did have your shirt on, like any place with a body of water involved</li>
+                    <li>The key is to not make being shirtless the focal point of the photo</li>
+                    <li>Most importantly, keep it casual. Don’t make a big deal about the fact that you are shirtless</li>
+
+                </ul>
+
+            </section>
+            <section id="groupshot">
+                <h3>The Group Shot</h3>
+                <ul>
+                    <li>The group shot is your opportunity to show potential matches that you are a sociable person who others enjoy being around</li>
+
+                    <li>The placement of the group shot is usually your fourth photo</li>
+                    <li>Try and keep the number of people between 1 and 4</li>
+                    <li>Who you want in the group shot is a little bit tricky</li>
+
+                    <li>You want to try and avoid using group shots with guys that you would consider significantly more attractive than you. Basically you don’t want to be out shined</li>
+                    <li>Avoid photos that are flattering on everyone else but you</li>
+                    <li>Try not to have any of the people in the photo be taller than you</li>
+                    <li class="list-indent">Same height is okay</li>
+                    <li class="list-indent">Even if you’re are above average height and your friends just happen to be taller, don’t use it because it will make you look short
+
+                    </li>
+
+                    <li>The most popular and safest bet as group shots go is a social gathering with friends</li>
+
+                    <li class="list-indent">This could be at a bar, party, diner, concert, etc.
+
+                    </li>
+
+                    <li>Another option is a family photo</li>
+                    <li>The context in which the photo is taking place isn’t really important because it’s more so about the vibe that you have with people around you
+
+                    </li>
+
+                </ul>
+
+            </section>
+            <section id="3rdand5thphoto">
+
+
+                <h3>The 3rd and 5th Photo</h3>
+                <ul>
+                    <li>Your third photo is going to be an open space for you to fill as you please
+
+                    </li>
+                    <li>It can either be another head shot, an activity shot or a group shot</li>
+                    <li>What you want to keep in mind is that whatever photo you select needs to be drastically different from the other photo that is in the same category</li>
+                    <li>If it’s another headshot, it should be in a completely different context. If it’s another activity shot, it should be a completely different activity, and so on</li>
+                    <li>What this is doing is creating contrast and showing that your life has depth to it</li>
+
+                    <li>If you have a 5th photo that you feel will strengthen your profile, apply the same aspect you did when choosing the 3rd photo, without repeating the type of photo</li>
+                    <li>So if your 3rd photo is a second headshot, make the 5th photo an activity shot or a group shot, and vice-versa</li>
+
+                </ul>
+
+
+
+            </section>
+
+
+
+
+            <section id="animalshot">
+
+
+                <h3>The Animal shot</h3>
+                <ul>
+
+                    <li>One of the better known photos, the animal shot or “pet shot” can frequently be found in most profiles</li>
+                    <li>Although it’s pretty hard to mess up, some people still find a way</li>
+
+                    <li>The animal shot can be incorporated into any of your photos</li>
+                    <li>The basic gist of it is pretty self explanatory, it’s a photo of you with and animal</li>
+
+                    <li>The thought process of it is pretty simple as well, girls like cute animals
+
+                    </li>
+                    <li>Before approaching the animal shot, there are a couple of things you are going to want to avoid</li>
+                    <li>If the photo involves an animal that has been known to kill people, don’t use it</li>
+
+                    <li class="list-indent">No reptiles, spider, sharks etc.</li>
+                    <li>Animals like lions or tigers can be viewed as cute or even exciting, but the thing is that it’s extremely over used and there is a huge chance that potential matches will assume that they are sedated with a ton of drugs and you over paid for the experience, because they probably are, and you probably did</li>
+                    <li>The safest route to go with the animal shot is posing with a dog, cat or any other fluffy pet</li>
+                </ul>
+
+
+
+            </section>
+
+
+
+            <section id="humor">
+
+
+                <h3>Incorporating Humor</h3>
+                <ul>
+
+                    <li>One of the better known photos, the animal shot or “pet shot” can frequently be found in most profiles</li>
+                    <li>Although it’s pretty hard to mess up, some people still find a way</li>
+
+                    <li>The animal shot can be incorporated into any of your photos</li>
+                    <li>The basic gist of it is pretty self explanatory, it’s a photo of you with and animal</li>
+
+                    <li>The thought process of it is pretty simple as well, girls like cute animals
+
+                    </li>
+                    <li>Before approaching the animal shot, there are a couple of things you are going to want to avoid</li>
+                    <li>If the photo involves an animal that has been known to kill people, don’t use it</li>
+
+                    <li class="list-indent">No reptiles, spider, sharks etc.</li>
+                    <li>Animals like lions or tigers can be viewed as cute or even exciting, but the thing is that it’s extremely over used and there is a huge chance that potential matches will assume that they are sedated with a ton of drugs and you over paid for the experience, because they probably are, and you probably did</li>
+                    <li>The safest route to go with the animal shot is posing with a dog, cat or any other fluffy pet</li>
+                </ul>
+
+
+
+            </section>
+
+
+            <section id="wealth">
+
+
+                <h3>Wealth</h3>
+                <ul>
+
+                    <li>Obviously being wealthy isn’t necessary for a good profile. But if you are, there’s a pretty easy way to use it to your advantage</li>
+                    <li>Just like some of the other topics that were covered, don’t draw too much attention to it</li>
+                    <li>Don’t look too excited about being on a yacht</li>
+
+
+                </ul>
+
+
+
+            </section>
+
+
+
+            <section id="filters">
+
+
+                <h3>Filters</h3>
+                <ul>
+
+                    <li>Filters are a good way to contrast the photos in your gallery</li>
+                    <li>By applying a filter it will differentiate one photo from the others</li>
+
+                    <li>Make sure you only use a filter on one photo or you will lose this effect</li>
+                    <li>Keep it simple, using a filter shouldn’t cause a huge change</li>
+
+
+
+                </ul>
+
+
+
+            </section>
+
+
+            <section id="women">
+
+
+                <h3>Photos With Women</h3>
+                <ul>
+
+                    <li>Of all topics discussed, this is the one that has been the most difficult to approach</li>
+                    <li>One of the most common photos in any Tinder profile is the group shot with a girl in the photo</li>
+                    <li>The general thought process behind this is that a photo with a girl will generate “social proof”</li>
+                    <li>Social proof is the assumed sense of value that one generates based on their interactions with other people or with an environment</li>
+                    <li>For example, if you are at a bar waiting for a drink and someone walks in and is immediately greeted by an attractive girl, that person begins to develop strong social proof</li>
+                    <li>Logically speaking, in the real world, social proof is a very strong factor of what creates attraction</li>
+                    <li>Social proof brings up scenarios where women assume you’re attractive because other people already believe it, or they begin to jump to conclusions such as, “if he’s surrounded by women, he must be a quality guy due to what they see in him”</li>
+                    <li>Do to the fact that social proof is such a strong tool, countless hours were spent in research, trial and error to try and figure out the right way to include women in your photos</li>
+                    <li>With all that said, the fact of the matter is that the real world and Tinder are two completely different things</li>
+
+                    <li>Yes, in the real world being around women does provide social proof, but when on Tinder, it doesn’t</li>
+                    <li>The first reason is because far too many guys pose with women for their photos, so already you are labeling yourself as generic</li>
+                    <li>The second is that a photo with a girl brings up too much ambiguity</li>
+                    <li class="list-indent">Is that his sister or his girlfriend?</li>
+                    <li class="list-indent">If he has a girlfriend why is he on Tinder?</li>
+                    <li class="list-indent">Do I have to worry about this girl if our relationship ever does go anywhere</li>
+                    <li class="list-indent">If they are just friends, is he crushing on her or is she crushing on him?</li>
+
+                    <li>The final and most prevalent reason is that they know exactly what your doing</li>
+                    <li>For some reason, a large portion of guys don’t credit girls with having any social awareness</li>
+                    <li>In pretty much every case the potential match is going to know what you are try to convey, and they’re probably going to be turned off by it</li>
+                    <li>For starters they’ll see it as you exploiting other girls to make yourself look more appealing</li>
+                    <li>When done in the real world, social proof rarely looks staged or pre- meditated. But on Tinder, an app where you get full control of how you present yourself to the world, that’s exactly the way it’s going to look
+
+                    </li>
+                    <li>The verdict on this matter is that any way you do it, you end up hurting yourself. It’s completely understood that your intuition is telling you otherwise, but just don’t do it</li>
+
+
+                </ul>
+
+
+
+            </section>
+
+
+
+
+            <a href="part2.html"><h2>Part Two: The Bio</h2></a>
+
+
+        </article>
+
+    </main>
+    <footer></footer>
+
+    <script>
+        smoothScroll.init();
+    </script>
+</body>
+
+</html>
+
+
+<!--Marked Up by James Hillmann-->
