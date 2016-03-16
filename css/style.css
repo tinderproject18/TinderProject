@@ -9,6 +9,7 @@ body {
     font-family: 'Roboto', sans-serif;
     /*    background-color: #eaeaea;*/
     color: #525252;
+    font-size: 16px;
 }
 
 header {
@@ -146,12 +147,20 @@ header li {
     display: block;
 }
 
-@media screen and (min-width: 45em) {
+.nav2 {
+    display: none;
+}
+
+@media screen and (min-width: 90em) {
     body {
         /*        max-width: 40em;*/
         margin: 0 auto;
         box-sizing: border-box;
-        /*        max-width: 80em;*/
+        max-width: 90em;
+        overflow: auto;
+    }
+    .nav2 {
+        display: block;
     }
     header {
         width: 20em;
@@ -159,13 +168,11 @@ header li {
         display: inline-block;
     }
     article {
+        float: left;
         max-width: 40em;
-        margin-left: 20em;
     }
     aside {
         float: right;
-        padding: 1em;
-        width: 30em;
     }
     header {}
     section {}
